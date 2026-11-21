@@ -1,0 +1,16 @@
+{
+  "name": "zhixuan-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "知选 AI —— 自然语言智能选股与策略解释器（同花顺扶摇真实数据 + 千问大模型意图解析 + 确定性筛选引擎）",
+  "main": "server.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/run-tests.js"
+  },
+  "license": "MIT"
+}
